@@ -1,3 +1,14 @@
+##About Website Page
+Ideakart is a site that gives u an idea about the book you want to buy. We offer a huge collection of books in diverse categories.
+
+We have a user friendly search engine and a quick delivery system. With this we even provide best discounts on our books. You can write to us for any idea or any help you need.
+
+##Home page of website
+![Screenshot (676)](https://user-images.githubusercontent.com/101566294/193495060-a6a362b7-0924-4f84-a147-09e5bc02c062.png)
+
+##Deploy link
+https://ideakart-b2la.vercel.app/home
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -7,6 +18,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.

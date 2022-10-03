@@ -1,0 +1,257 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.navbar{
+  color: #dcfb00;
+}
+.navbar{
+  background-color: #2874f0;
+  
+  
+}
+.nav-item{
+  justify-content: flex-end;
+}
+.about{
+  width: 1170px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  font-size: 18px;
+  line-height: 1.58;
+  letter-spacing: -0.003em;
+  font-weight: 400;
+  font-style: normal;
+  --x-height-multiplier: 0.375;
+  --baseline-multiplier: 0.17;
+  font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
+}
+.contact{
+  padding-top: 0px;
+  padding-bottom: 400px;
+  text-align: center;
+  background: url("./Images/ideakart.jpg") no-repeat center center;
+  background-size: cover;
+  margin-bottom: 40px;
+}
+.heading{
+  width: 500px;
+  margin-left: 130px;
+  font-family:"Roboto"
+}
+.heading>p{
+  font-size: 18px;
+  font-weight: 500;
+}
+
+li>a{
+  text-decoration: none;  
+}
+.returnrefundpolicy{
+  width: 1170px;
+  margin: auto;
+  margin-top: 10px;
+  font-size: 18px;
+  line-height: 1.58;
+  letter-spacing: -0.003em;
+  font-weight: 400;
+  font-style: normal;
+  --x-height-multiplier: 0.375;
+  --baseline-multiplier: 0.17;
+  font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
+}
+.privacypolicy{
+  width: 1170px;
+  margin: auto;
+  margin-top: 10px;
+  font-size: 18px;
+  line-height: 1.58;
+  letter-spacing: -0.003em;
+  font-weight: 400;
+  font-style: normal;
+  --x-height-multiplier: 0.375;
+  --baseline-multiplier: 0.17;
+  font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
+}
+.privacypolicy>p{
+   font-size: 14px;
+}
+.earnmoneyonline{
+  width: 1170px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 36px;
+  line-height: 1.58;
+  letter-spacing: -0.003em;
+  font-weight: 400;
+  font-style: normal;
+  --x-height-multiplier: 0.375;
+  --baseline-multiplier: 0.17;
+  font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
+}
+.earnmoneyonline>h1{
+  font-size: 36px;
+  font-weight: 400;
+}
+.div1{
+  text-align: center;
+}
+.div2{
+  border: 1px solid black;
+  width: 355px;
+  padding: 15px;
+}
+
+.div1>span{
+  padding: 10px 10px 10px 10px;
+  background-color: aliceblue;
+  border-radius: 100px 100px 100px 100px;
+  font-size: 20px;
+}
+.div2>ul>li{
+  font-size: 15px;
+  margin-left: 18px;
+}
+.div3{
+  display: flex;
+  gap: 30px;
+  margin-left: 15px;
+  margin-top: 50px;
+}
+.video-container {
+  overflow: hidden;
+  position: relative;
+  width:100%;
+  margin-top: 40px;
+}
+
+.video-container::after {
+  padding-top: 56.25%;
+  display: block;
+  content: '';
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.cta{
+  text-align: center;
+  float: left;
+  width: 100%;
+  margin-bottom: 30px;
+}
+.search>h1{
+  text-align: center;
+  font-size: 36px;
+  margin-top: 20px;
+}
+.box3{
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  margin-top: 50px;
+}
+.box2{
+  margin-left: -70px;
+  margin-top: 20px;
+}
+.box1{
+  margin-top: 20px;
+}
+label{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.home{
+  font-size: 25px;
+  margin-left: 85px;
+  margin-top: 15px;
+  font-family: 'Roboto';
+}
+.home .landingpage>div>h5:hover{
+  cursor: pointer;
+  background-color: #F5F5DC;
+}
+.homediv1{
+  width: 270px;
+  height: fit-content;
+  border: 1px solid #E1E1E1;
+  border-radius: 5px;
+  background: #FFF;
+}
+.homediv1>img{
+  margin: 0 auto;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+  width: 100%;
+  padding: 15px;
+}
+.homediv1{
+  margin-top: 5px;
+  font-family: 'Roboto';
+  float: left;
+  margin-right: 28px;
+  cursor: pointer;
+}
+.homediv1>h5{
+  line-height: 20px;
+  margin: 0;
+  font-size: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.homediv1>h5>h5{
+  font-size: 15px;
+}
+.text-color{
+  color: #219FD1;
+}
+hr{
+  width: 240px;
+  height: 1px;
+  color: gray;
+  margin-top: -7px;
+  margin-bottom: 8px;
+}
+.homediv1 .btn-add{
+  text-align: center;
+  padding-top: -20px;
+  margin-bottom: 8px;
+}
+.homediv1 .btn-add >a{
+  color: blue;
+  text-decoration: none;
+}
+.homediv1 .btn-add>a>svg{
+  color: black;
+}
+span{
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+.landingpage{
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  grid-template-rows: auto;
+  margin-bottom: 100px;
+}
+
+
